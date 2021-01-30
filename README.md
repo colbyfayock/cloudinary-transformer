@@ -56,4 +56,12 @@ Works with: https://cloudinary-transform-designer.netlify.app/
 }
 ```
 
+The above would return:
+
+```
+https://res.cloudinary.com/fay/image/upload/w_2024,h_1012,c_fill,q_auto,f_auto/w_1200,c_fit,co_rgb:ffffff,g_west,x_102,y_-80,l_text:Source%20Sans%20Pro_110_line_spacing_-10_black:Headline/w_860,c_fit,co_rgb:a2cfff,g_south_west,x_104,y_65,l_text:Source%20Sans%20Pro_66_line_spacing_-10_bold:Subtext/space-jelly-dev-og-v1_a90cow
+```
+
+<img src="https://res.cloudinary.com/fay/image/upload/w_2024,h_1012,c_fill,q_auto,f_auto/w_1200,c_fit,co_rgb:ffffff,g_west,x_102,y_-80,l_text:Source%20Sans%20Pro_110_line_spacing_-10_black:Headline/w_860,c_fit,co_rgb:a2cfff,g_south_west,x_104,y_65,l_text:Source%20Sans%20Pro_66_line_spacing_-10_bold:Subtext/space-jelly-dev-og-v1_a90cow" alt="Example Cloudinary image" />
+
 See live at https://spacejelly.dev/posts/how-to-fetch-graphql-data-in-next-js-with-apollo-graphql/
