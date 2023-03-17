@@ -1,4 +1,5 @@
-# This project is no longer maintained, please see [@cloudinary-util/url-loader](https://github.com/colbyfayock/cloudinary-util/tree/main/packages/url-loader)
+# This project is no longer maintained.
+# Please see [@cloudinary-util/url-loader](https://github.com/colbyfayock/cloudinary-util/tree/main/packages/url-loader)
 
 ## Cloudinary Transformer
 
